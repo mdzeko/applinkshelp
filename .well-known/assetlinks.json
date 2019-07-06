@@ -1,0 +1,9 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "hr.nsk.smartlibrary",
+    "sha256_cert_fingerprints":
+    ["60:1A:19:7D:91:42:75:B9:C3:F2:C0:84:89:3E:38:0F:0E:47:03:5A:5C:1C:F5:2E:EB:85:D5:39:F6:40:E3:65"]
+  }
+}]
